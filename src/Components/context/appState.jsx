@@ -20,6 +20,7 @@ const AppState = (props) => {
     address: "",
     loanStatus: "Pending", // default
     loanAmount: "",
+    bankName: "",
     paymentScreenshot: "", // will be filled after upload
     frontCnic: "", // will be filled after upload
     backCnic: "", // will be filled after upload
@@ -272,6 +273,7 @@ const signIn = async (username, password) => {
         address: "",
         loanStatus: "Pending", // default
         loanAmount: "",
+        bankName:"",
         paymentScreenshot: "", // will be filled after upload
          frontCnic: "",
   backCnic: "",
@@ -340,7 +342,7 @@ const signIn = async (username, password) => {
   // 
 
 
-    console.clear()
+    // console.clear()
   return (
     <AppContext.Provider value={{loadingNumber, createUserLoader, siteData, inputRef, fetchUserByCnic, users, fetchUsers, userData, setUserData, siteData, createUser, signIn, adminToken, admin, setAdminToken, editSiteInfo, setSiteData, editLoader, setEditLoader, loanStatusUpdation, handleFileUpdate }}>
       {props.children}
