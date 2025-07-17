@@ -58,7 +58,7 @@ const Crousal = () => {
                   data-aos="fade-up"
                   data-aos-duration="1500"
                 >
-                  An awful lot of experts think that the Akhuwat Foundation Loan Program is one of the best ways to get a loan in Pakistan.
+                  A lot of experts think that the Akhuwat Foundation Loan Program is one of the best ways to get a loan in Pakistan.
                 </h1>
                 {/* <Link
                   className="btn btn-light mt-4"
