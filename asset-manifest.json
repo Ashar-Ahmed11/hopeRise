@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hopeRise/static/css/main.147922fd.css",
-    "main.js": "/hopeRise/static/js/main.797efb54.js",
+    "main.js": "/hopeRise/static/js/main.edeba9a7.js",
     "static/js/453.684e42f6.chunk.js": "/hopeRise/static/js/453.684e42f6.chunk.js",
     "static/media/centerImage.png": "/hopeRise/static/media/centerImage.92f1980c1ac1d2fbab4d.png",
     "static/media/loangraphic.png": "/hopeRise/static/media/loangraphic.287d8b8282b1962f24d3.png",
@@ -37,11 +37,11 @@
     "static/media/House Loan.jpg": "/hopeRise/static/media/House Loan.dfdcce54a7cdfa562789.jpg",
     "index.html": "/hopeRise/index.html",
     "main.147922fd.css.map": "/hopeRise/static/css/main.147922fd.css.map",
-    "main.797efb54.js.map": "/hopeRise/static/js/main.797efb54.js.map",
+    "main.edeba9a7.js.map": "/hopeRise/static/js/main.edeba9a7.js.map",
     "453.684e42f6.chunk.js.map": "/hopeRise/static/js/453.684e42f6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.147922fd.css",
-    "static/js/main.797efb54.js"
+    "static/js/main.edeba9a7.js"
   ]
 }
