@@ -225,6 +225,7 @@ const AllUser = () => {
                 <p><strong>CNIC:</strong> {selectedUser.cnic}</p>
                 <p><strong>Address:</strong> {selectedUser.address}</p>
                 <p><strong>Loan Amount:</strong> {selectedUser.loanAmount}</p>
+                <p><strong>Bank Account Number:</strong> {selectedUser.bankAccountNumber}</p>
                 <p><strong>Bank Name:</strong> {selectedUser.bankName}</p>
                 <p><strong>Loan Status:</strong> {savedStatuses[selectedUser._id] || selectedUser.loanStatus}</p>
                 <div className='my-5'>
